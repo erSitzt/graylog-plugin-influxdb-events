@@ -1,0 +1,1 @@
+# graylog-plugin-influxdb-events
